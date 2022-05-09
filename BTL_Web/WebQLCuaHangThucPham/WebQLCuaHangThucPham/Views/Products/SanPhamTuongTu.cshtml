@@ -1,0 +1,30 @@
+﻿@using WebQLCuaHangThucPham.Models;
+@model List<SanPham>
+
+@{
+    foreach (var item in Model)
+    {
+        var db = new QLCuaHangThucPhamEntities1();
+        var abc = db.AnhSPs.Where(x => x.MaSP == item.MaSP).ToList();
+        var Gia = db.GiaSPs.Where(x => x.MaSP == item.MaSP && x.Time_Begin < DateTime.Now).First();
+        for (int i = 0; i < abc.Count; i++)
+        {
+            if (i == 0)
+            {
+                <div class="col-md-3">
+                    <div class="product__promotion__item">
+                        <div class="product__promotion__img">
+                            <a href="@Url.Action("ChiTietSanPham","Products",new {@MaSP = item.MaSP})">
+                                <img src="~/Content/Frond/img/@abc[i].URL" alt="">
+                            </a>
+                        </div>
+                        <a href="@Url.Action("ChiTietSanPham","Products",new {@MaSP = item.MaSP})">@item.TenSP</a>
+                        <span> @String.Format("{0:N0}", Gia.Gia)<b>đ</b></span>
+                    </div>
+                </div>
+            }
+        }
+
+    }
+}
+

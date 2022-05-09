@@ -1,0 +1,941 @@
+:root {
+    --mainColor: #86ba09;
+}
+
+@font-face {
+    font-family: RobotoSlab-Medium;
+    src: url('../font/RobotoSlab-Medium.ttf');
+}
+
+@font-face {
+    font-family: RobotoSlab-Thin;
+    src: url('../font/RobotoSlab-Thin.ttf');
+}
+
+@font-face {
+    font-family: RobotoSlab-Bold;
+    src: url('../font/RobotoSlab-Bold.ttf');
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+}
+
+/* header */
+body {
+    position: relative;
+}
+
+header {
+    width: 100%;
+    height: 8rem;
+    box-shadow: 0px 2px 10px #ddd;
+}
+#username{
+    display: none;
+}
+.header_scroll {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    background-color: #fff;
+    opacity: .9;
+    height: 6rem;
+    animation-name: headerScroll;
+    animation-duration: .7s;
+    transition: opacity 1s;
+}
+
+@keyframes headerScroll {
+    from {
+        transform: translateY(-100%);
+        opacity: 0.3;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.logo a {
+    color: var(--mainColor);
+    text-decoration: none;
+    font-family: RobotoSlab-Bold;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+.menu {
+    width: 70%;
+}
+
+.menu ul li {
+    padding: 0 1.5rem;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-family: RobotoSlab-Bold;
+    color: #777;
+    transition: .3s;
+}
+
+.menu ul li i, .mb_menu ul li i {
+    margin-left: .5rem;
+    color: #777;
+
+}
+
+.menu ul li.active a, .mb_menu ul li.active a {
+    color: var(--mainColor);
+}
+
+.menu ul li:hover a,
+.menu ul li:hover i,
+.mb_menu ul li:hover a,
+.mb_menu ul li:hover i {
+    color: var(--mainColor);
+}
+
+.menu1 {
+    position: relative;
+}
+
+.menu1:hover .menu2 {
+    display: block;
+}
+
+.menu2 {
+    position: absolute;
+    width: 100%;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    z-index: 2;
+    padding: 0;
+    display: none;
+}
+
+.menu2 li {
+    padding: .5rem 2rem !important;
+}
+
+.menu2 li:hover {
+    background-color: rgb(231, 228, 228);
+}
+
+.header__icon {
+    padding: 0;
+}
+
+.header__icon li:last-child {
+    position: relative;
+}
+
+.header__icon li i,
+.header__icon li a i {
+    margin: 0 1rem;
+    font-size: 1.2rem;
+    color: #777;
+    cursor: pointer;
+}
+
+.header__icon li .cart {
+    position: absolute;
+    top: 130%;
+    left: -50%;
+    padding: 1rem;
+    width: 15rem;
+    box-shadow: 2px 2px 2px 2px rgb(204, 202, 202);
+    z-index: 1000;
+    transform-origin: 2rem top;
+    display: none;
+    animation: headerNotify ease-in-out 0.3s;
+    background-color: #fff;
+}
+
+    .header__icon #giohang:before {
+        position: absolute;
+        content: '';
+        top: 80%;
+        right: -50%;
+        width: 5rem;
+        height: 2rem;
+    }
+
+@keyframes headerNotify {
+    from {
+        opacity: 0;
+        transform: scale(0);
+    }
+
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.header__icon li:hover .cart {
+    display: block;
+}
+
+.header__icon li .cart p {
+    margin: 0;
+    font-family: RobotoSlab-Medium;
+}
+#giohang {
+    position: relative;
+}
+
+    #giohang #sl {
+        position: absolute;
+        top: -.5rem;
+        right: -.5rem;
+        background-color: #689207;
+        color: #fff;
+        padding: .3rem;
+        border-radius: 50%;
+        width: 1rem;
+        height: 1rem;
+        font-size: .8rem;
+        line-height: .5rem;
+    }
+.cart__item {
+    position: relative;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #ddd;
+}
+
+.cart__item__img {
+    width: 4rem;
+    height: 4rem;
+    overflow: hidden;
+}
+
+.cart__item__img img {
+    width: 100%;
+}
+
+.cart__info {
+    margin-left: 1rem;
+}
+.cart__info a{
+    text-decoration: none;
+    color: #000;
+}
+.cart__info a:hover{
+    color: var(--mainColor);
+}
+.cart__quantity p {
+    margin-right: 0.3rem !important;
+}
+
+.cart__quantity p,
+.cart__quantity span {
+    font-size: .8rem;
+}
+
+.cart__quantity span {
+    color: var(--mainColor);
+}
+
+.cart__item .close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+}
+.total{
+    padding: 0.5rem;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 0.5rem;
+}
+.total p{
+    font-family: RobotoSlab-Bold !important;
+}
+.total span{
+    color: var(--mainColor);
+    margin-left: 0.5rem;
+}
+.cart button{
+    width: 100%;
+    padding: .5rem 0;
+    text-align: center;
+    margin: .3rem 0;
+    color: #fff;
+    text-transform: uppercase;
+    border: none;outline: none;
+    cursor: pointer;
+    transition: .3s;
+}
+.red{
+    background-color: #d26e4b;
+}
+.red:hover{
+    background-color: #b45734;
+}
+.green{
+    background-color: var(--mainColor);
+}
+.green:hover{
+    background-color:#5a7e07;
+}
+/* <!-- search --> */
+.modalShow {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 1;
+    display: none;
+}
+
+.modalShow .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: #000;
+    opacity: .3;
+}
+
+.modal__search {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 35rem;
+    margin: auto;
+    border-radius: 2rem;
+    z-index: 2;
+    overflow: hidden;
+    animation-name: TopBo;
+    animation-duration: .3s;
+}
+
+@keyframes TopBo {
+    from {
+        transform: translateY(-100%);
+    }
+
+    to {
+        transform: translateY(-50%);
+    }
+}
+
+.modal__search .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: #fff;
+    opacity: .3;
+}
+
+.modal__search input {
+    position: relative;
+    padding: 1rem 0;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-family: RobotoSlab-Medium;
+    font-size: 1.5rem;
+    background: transparent;
+    width: 80%;
+    margin-left: 2rem;
+}
+
+.modal__search input::placeholder {
+    color: #fff;
+}
+
+.modalShow i {
+    position: absolute;
+    font-size: 1.5rem;
+    top: 50%;
+    right: 2rem;
+    transform: translateY(-50%);
+    color: #fff;
+    cursor: pointer;
+}
+
+.modalShow i {
+    position: absolute;
+    color: #fff;
+    top: 2rem;
+    right: 2rem;
+    cursor: pointer;
+    opacity: .7;
+    font-size: 2rem;
+    z-index: 1;
+}
+
+.modalShow i:hover {
+    opacity: 1;
+}
+
+.modal__login, .modal__register {
+    display: none;
+    background-color: #fff;
+    padding: 2rem;
+    width: 50%;
+    z-index: 5000;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.modal__login h3,
+.modal__register h3 {
+    font-family: RobotoSlab-Bold;
+    text-transform: uppercase;
+}
+
+.login__input p, .register__input p {
+    font-family: RobotoSlab-Bold;
+    margin: 1rem 0 0.3rem;
+}
+
+.login__input p sup,
+.register__input p sup {
+    color: red;
+    font-size: 1.3rem;
+    top: 0;
+}
+
+.login__input input,
+.register__input input {
+    padding: .3rem 1rem;
+    border: 1px solid #777;
+    font-family: RobotoSlab-Medium;
+    width: 100%;
+    box-shadow: 1px 2px 3px rgb(214, 208, 208);
+    outline: none;
+}
+
+.button button {
+    font-family: RobotoSlab-Medium;
+    text-transform: uppercase;
+    color: #fff;
+    border: none;
+    outline: none;
+    padding: .5rem 1rem;
+    margin: 1rem 0;
+    cursor: pointer;
+    transition: .3s;
+    margin-right: 3rem;
+}
+
+.button .colormain:hover {
+    background-color: #5a7e07;
+}
+
+.button .colorgray:hover {
+    background-color: rgb(153, 151, 151);
+}
+
+.login__info__desc {
+    font-family: RobotoSlab-Medium;
+
+}
+
+.savePassword {
+    margin-right: 3rem;
+}
+
+.login__info__desc a {
+    text-decoration: none;
+    color: #000;
+}
+
+.login__info__desc a:hover {
+    color: var(--mainColor);
+    transition: .3s;
+}
+
+.colormain {
+    background-color: var(--mainColor);
+}
+
+.colorgray {
+    background-color: #777;
+}
+
+footer .desc {
+    background-image: url('../img/bg-footer8.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    width: 100%;
+    height: 25rem;
+    text-align: center;
+    padding-top: 3rem;
+    margin: 3rem 0;
+    background-size: cover;
+
+}
+
+.desc h2 {
+    color: #fff;
+    font-family: Robotoslab-Bold;
+    font-size: 2.5rem;
+    margin-top: 5rem;
+}
+
+.desc p {
+    color: #fff;
+    font-family: Robotoslab-Thin;
+}
+
+/* footer */
+footer {
+    background-color: #fff;
+}
+
+footer .container {
+    padding: 3rem 0;
+}
+
+.footer__logo {
+    width: 80%;
+    margin-bottom: 1rem;
+}
+
+.footer__logo img {
+    width: 100%;
+}
+
+.footer__item P {
+    font-family: RobotoSlab-Medium;
+    margin: 0;
+    color: #555;
+}
+
+.footer__item h4 {
+    text-transform: uppercase;
+    font-family: RobotoSlab-Bold;
+    margin-bottom: 1rem;
+}
+
+.footer__item ul {
+    padding: 0;
+}
+
+.footer__item ul li a {
+    color: #777;
+    text-decoration: none;
+    font-family: RobotoSlab-Medium;
+    margin-bottom: .5rem;
+    display: block;
+}
+
+.footer__item ul li a:hover {
+    color: var(--mainColor);
+    transition: .3s;
+}
+
+footer .info {
+    background-color: #000;
+    width: 100%;
+    padding: 1rem;
+    text-align: center;
+}
+
+footer .info p {
+    font-family: RobotoSlab-Medium;
+    color: rgb(161, 156, 156);
+    margin: 0;
+}
+
+#ScrollTop {
+    position: fixed;
+    bottom: 4rem;
+    right: 2rem;
+    opacity: 0;
+    transition: all .4s;
+    color: #000;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    border: 1px solid #000;
+    text-align: center;
+}
+
+#ScrollTop.active {
+    opacity: 1;
+}
+
+#ScrollTop:hover {
+    background-color: var(--mainColor);
+    cursor: pointer;
+}
+
+#ScrollTop i {
+    margin-top: .5rem;
+    font-size: 1.2rem;
+}
+
+#ScrollTop:hover i {
+    color: #fff;
+}
+
+/* menu mobile  */
+.mb-menu {
+    display: none;
+}
+
+.mb-menu .header__icon li i, .header__icon li a i {
+    margin: 0 .3rem;
+}
+
+.mb-menu .logo a {
+    font-size: 1.5rem;
+}
+
+.mb-menu .icon-menu, .mb-menu .header__icon {
+    width: 5rem;
+}
+
+.mb-menu .icon-menu i {
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+
+.mb_menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    animation-name: LeftToRight;
+    animation-duration: .3s;
+    opacity: 1;
+    z-index: 10000;
+}
+
+.mb_menu>ul {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 60%;
+    background-color: #fff;
+    z-index: 200;
+    padding: 2rem 0 0 0;
+
+}
+
+.mb_menu ul li a {
+    padding: .5rem 2rem;
+    display: block;
+    color: #000;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.mb_menu ul li a:hover {
+    background-color: rgb(233, 232, 232);
+}
+
+.mb_menu .overlay {
+    position: absolute;
+    background-color: #000;
+    opacity: .5;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.mb_menu i {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    z-index: 2;
+    color: #fff;
+    font-size: 1.4rem;
+    cursor: pointer;
+}
+
+.mb-menu2 {
+    padding: 0 !important;
+    display: none;
+}
+
+.mb_menu .menu1 i {
+    top: .5rem;
+    right: 3rem;
+    pointer-events: none;
+}
+
+.mb_menu {
+    display: none;
+}
+
+@keyframes LeftToRight {
+    from {
+        transform: translateX(-100%);
+        opacity: 0.3;
+    }
+
+    to {
+        transform: translateX(0);
+        opacity: 0.3;
+    }
+}
+
+@media (max-width: 575.98px) {
+
+    header {
+        height: 5rem;
+    }
+
+    .menu_main {
+        display: none !important;
+    }
+
+    .mb-menu {
+        display: block;
+    }
+
+    .modal__search {
+        width: 20rem;
+    }
+
+    .modal__search input {
+        font-size: 1rem;
+        width: 70%;
+    }
+
+    .modalShow i {
+        font-size: 1.5rem;
+    }
+
+    .modal__login, .modal__register {
+        width: 90%;
+        margin: auto;
+    }
+
+    .button button {
+        margin-right: .5rem;
+    }
+
+    .savePassword {
+        display: flex;
+        align-items: center;
+        margin-right: 1rem;
+        justify-content: space-between;
+    }
+
+    label {
+        font-size: .7rem;
+        margin: 0;
+    }
+
+    .login__info__desc a {
+        font-size: .8rem;
+    }
+
+    footer .row {
+        width: 100%;
+    }
+
+    #ScrollTop {
+        bottom: 2rem;
+    }
+
+    .header__icon li .cart {
+        right: 0 !important;
+        left: unset;
+        transform-origin: 15rem top;
+    }
+
+    .modal__login h3, .modal__register h3 {
+        font-size: 1.1rem;
+    }
+
+    .login__input p, .register__input p {
+        font-size: .7rem;
+    }
+
+    .button button {
+        font-size: .8rem;
+    }
+
+    .desc {
+        height: 20rem !important;
+        background-size: cover !important;
+    }
+
+    .desc h2 {
+        font-size: 1.5rem !important;
+        margin-top: 3rem !important;
+    }
+
+    .desc p {
+        font-size: .8rem !important;
+    }
+
+    footer .container .row {
+        margin: 0;
+    }
+    .mb-menu .header__icon li i, .header__icon li a i{
+        font-size: .9rem;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    header {
+        height: 5rem;
+    }
+
+    .menu_main {
+        display: none !important;
+    }
+
+    .mb-menu {
+        display: block;
+    }
+
+    .modal__search {
+        width: 20rem;
+    }
+
+    .modal__search input {
+        font-size: 1rem;
+        width: 70%;
+    }
+
+    .modalShow i {
+        font-size: 1.5rem;
+    }
+
+    .modal__login, .modal__register {
+        width: 90%;
+        margin: auto;
+    }
+
+    .button button {
+        margin-right: .5rem;
+    }
+
+    .savePassword {
+        display: flex;
+        align-items: center;
+        margin-right: 1rem;
+        justify-content: space-between;
+    }
+
+    label {
+        font-size: .7rem;
+        margin: 0;
+    }
+
+    .login__info__desc a {
+        font-size: .8rem;
+    }
+
+    .desc {
+        height: 20rem !important;
+        background-size: cover !important;
+    }
+
+    .desc h2 {
+        font-size: 1.5rem !important;
+        margin-top: 3rem !important;
+    }
+
+    .desc p {
+        font-size: .8rem !important;
+    }
+
+    footer .row {
+        width: 100%;
+    }
+
+    #ScrollTop {
+        bottom: 2rem;
+    }
+
+    .header__icon li .cart {
+        right: 0 !important;
+        left: unset;
+        transform-origin: 15rem top;
+    }
+
+    .modal__login h3, .modal__register h3 {
+        font-size: 1.1rem;
+    }
+
+    .login__input p, .register__input p {
+        font-size: .7rem;
+    }
+
+    .button button {
+        font-size: .8rem;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .menu_main {
+        display: none !important;
+    }
+
+    .mb-menu {
+        display: block;
+    }
+
+    .mb-menu .logo a {
+        font-size: 2.5rem;
+    }
+
+    .mb-menu .icon-menu i {
+        font-size: 2rem;
+    }
+
+    .mb-menu .header__icon li i, .header__icon li a i {
+        font-size: 1.7rem;
+    }
+
+    .mb-menu .icon-menu, .mb-menu .header__icon {
+        width: 7rem;
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .mb-menu {
+        display: none !important;
+    }
+
+    .menu ul li {
+        padding: 0 0.5rem;
+    }
+
+    .header__icon li i, .header__icon li a i {
+        margin: 0 .5rem;
+    }
+
+    .menu2 {
+        width: 130%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .mb-menu {
+        display: none !important;
+    }
+    .container {
+        max-width: 1240px;
+    }
+}

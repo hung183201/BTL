@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CleverFood</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+        integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"
+        integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="../css/base.css">
+    <link rel="stylesheet" href="../css/GioHang.css">
+</head>
+
+<body>
+    <!-- header -->
+    <header>
+        <div class="container d-flex align-items-center justify-content-between h-100">
+            <div class="menu_main d-flex align-items-center justify-content-between">
+                <div class="logo">
+                    <a href="TrangChu.html">cleverfood</a>
+                </div>
+                <nav class="menu">
+                    <ul class="d-flex align-items-center ">
+                        <li class="active"><a href="TrangChu.html">Trang chủ</a></li>
+                        <li><a href="GioiThieu.html">Giới thiệu</a></li>
+                        <li class="menu1">
+                            <a href="CuaHang.html">cửa hàng</a>
+                            <i class="fa-solid fa-angle-down"></i>
+                            <ul class="menu2">
+                                <li><a href="#">Rau củ</a></li>
+                                <li><a href="#">Trái cây</a></li>
+                                <li><a href="#">Đồ uống</a></li>
+                                <li><a href="#">Đồ khô</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="Kienthuc.html">kiến thức</a></li>
+                        <li><a href="LienHe.html">Liên hệ</a></li>
+                    </ul>
+                </nav>
+                <ul class="header__icon d-flex align-items-center ">
+                    <li><i class="fa-solid fa-magnifying-glass icon-search"></i></li>
+                    <li> <i class="fa-solid fa-user icon-login"></i></li>
+                    <li id="giohang"> <a href="GioHang.html">
+                            <i class="fa-solid fa-cart-shopping icon-cart"></i>
+                            <span id="sl">1</span>
+                        </a>
+                        <div class="cart">
+                            <!-- <p>Chưa có sản phẩm nào</p -->
+                            <div class="cart__item d-flex">
+                                <div class="cart__item__img">
+                                    <a href="#">
+                                        <img src="../img/product-1-470x470.jpg" alt="">
+                                    </a>
+                                </div>
+                                <div class="cart__info">
+                                    <a href="#">Cà chua</a>
+                                    <div class="cart__quantity d-flex align-items-center">
+                                        <p>1</p>
+                                        <p>x</p>
+                                        <span>320,000</span>
+                                    </div>
+                                </div>
+                                <i class="fa-solid fa-xmark close"></i>
+                            </div>
+
+                            <div class="total d-flex justify-content-center">
+                                <p>Tổng : </p>
+                                <span>320,000 <b>đ</b></span>
+                            </div>
+                            <button class="green">Xem giỏ hàng</button>
+                            <button class="red">Thanh toán</button>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="mb-menu d-flex align-items-center justify-content-between w-100">
+                <div class="icon-menu">
+                    <i class="fa-solid fa-bars"></i>
+                </div>
+                <div class="logo">
+                    <a href="TrangChu.html">cleverfood</a>
+                </div>
+                <ul class="header__icon d-flex align-items-center ">
+                    <li><i class="fa-solid fa-magnifying-glass icon-search"></i></li>
+                    <li> <i class="fa-solid fa-user icon-login"></i></li>
+                    <li> <a href="GioHang.html">
+                            <i class="fa-solid fa-cart-shopping icon-cart"></i>
+                        </a>
+                        <div class="cart">
+                            <p>Chưa có sản phẩm nào</p>
+                        </div>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </header>
+    <!-- search login cart -->
+    <div class="modalShow">
+        <div class="overlay"></div>
+        <div class="modal__search">
+            <div class="overlay"></div>
+            <input type="text" placeholder="Tìm kiếm...">
+            <i class="fa-solid fa-magnifying-glass"></i>
+        </div>
+        <div class="modal__login">
+            <h3>Đăng nhập</h3>
+            <div class="login__input">
+                <p>Tên tài khoản hoặc địa chỉ email <sup>*</sup></p>
+                <input type="text" name="" id="">
+            </div>
+            <div class="login__input">
+                <p>Mật khẩu <sup>*</sup> </p>
+                <input type="text" name="" id="">
+            </div>
+            <div class="button d-flex justify-content-start">
+                <button class="btnlogin colormain">đăng nhập</button>
+                <button class="btnregis colorgray">đăng ký</button>
+            </div>
+            <div class="login__info__desc d-flex ">
+                <div class="savePassword ">
+                    <input type="checkbox" name="" id="">
+                    <label for="">Ghi nhớ mật khẩu</label>
+                </div>
+                <a href="#">Quên mật khẩu?</a>
+            </div>
+        </div>
+        <div class="modal__register">
+            <h3>Đăng ký</h3>
+            <div class="register__input">
+                <p>Họ và tên <sup>*</sup></p>
+                <input type="text" name="" id="">
+            </div>
+            <div class="register__input">
+                <p>Tên tài khoản hoặc địa chỉ email <sup>*</sup></p>
+                <input type="text" name="" id="">
+            </div>
+            <div class="register__input">
+                <p>Mật khẩu <sup>*</sup> </p>
+                <input type="text" name="" id="">
+            </div>
+            <div class="register__input">
+                <p>Nhập lại mật khẩu <sup>*</sup> </p>
+                <input type="text" name="" id="">
+            </div>
+            <div class="register__input">
+                <p>Số điện thoại <sup>*</sup> </p>
+                <input type="text" name="" id="">
+            </div>
+            <div class="register__input">
+                <p>Địa chỉ <sup>*</sup> </p>
+                <input type="text" name="" id="">
+            </div>
+            <div class="button d-flex">
+                <button class="btnregis colormain">đăng ký</button>
+                <button class="btnlogin colorgray">đăng nhập</button>
+            </div>
+        </div>
+        <i class="fa-solid fa-xmark close-search"></i>
+    </div>
+    <!-- main -->
+    <section class="main">
+        <div class="container">
+            <!-- Nếu chưa có sản phẩm nào thì sẽ hiện như sau -->
+            <div class="no-product">
+                <p>Chưa có sản phẩm nào trong giỏ hàng.</p>
+                <a href="#">quay trở lại cửa hàng</a>
+            </div>
+            <div class="row justify-content-between">
+                <div class="col-md-7 list-product ">
+                    <table class="w-100  ">
+                        <thead>
+                            <tr>
+                                <th>sản phẩm</th>
+                                <th>Giá</th>
+                                <th>Số lượng</th>
+                                <th>Tổng</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="d-flex justify-content-start align-items-center product">
+                                    <i class="fa-solid fa-circle-xmark icon-close"></i>
+                                    <div class="image">
+                                        <img src="../img/product-1-470x470.jpg" alt="">
+                                    </div>
+                                    <p>Chuoi</p>
+                                </td>
+                                <td><span>150,000 <b>đ</b></span></td>
+                                <td>
+                                    <div class="quantity d-flex align-items-center">
+                                        <span class="tru">-</span>
+                                        <input class="input" type="number" value="1" min="1">
+                                        <span class="cong">+</span>
+                                    </div>
+                                </td>
+                                <td><span>450,000 <b>đ</b></span></td>
+                            </tr>
+                            <tr>
+                                <td class="d-flex justify-content-start align-items-center product">
+                                    <i class="fa-solid fa-circle-xmark icon-close"></i>
+                                    <div class="image">
+                                        <img src="../img/product-1-470x470.jpg" alt="">
+                                    </div>
+                                    <p>Chuoi</p>
+                                </td>
+                                <td><span>150,000 <b>đ</b></span></td>
+                                <td>
+                                    <div class="quantity d-flex align-items-center">
+                                        <span class="tru">-</span>
+                                        <input class="input" type="number" value="1" min="1">
+                                        <span class="cong">+</span>
+                                    </div>
+                                </td>
+                                <td><span>450,000 <b>đ</b></span></td>
+                            </tr>
+                            <tr>
+                                <td class="d-flex justify-content-start align-items-center product">
+                                    <i class="fa-solid fa-circle-xmark icon-close"></i>
+                                    <div class="image">
+                                        <img src="../img/product-1-470x470.jpg" alt="">
+                                    </div>
+                                    <p>Chuoi</p>
+                                </td>
+                                <td><span>150,000 <b>đ</b></span></td>
+                                <td>
+                                    <div class="quantity d-flex align-items-center">
+                                        <span class="tru">-</span>
+                                        <input class="input" type="number" value="1" min="1">
+                                        <span class="cong">+</span>
+                                    </div>
+                                </td>
+                                <td><span>450,000 <b>đ</b></span></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div class="button">
+                        <a class="back" href="#">Tiếp tục xem sản phẩm</a>
+                        <a class="update" href="#">Cập nhật giỏ hàng</a>
+                    </div>
+                </div> 
+                <div class="col-md-4 payment">
+                    <h5>Chi tiết đơn hàng</h5>
+                    <div class="total d-flex justify-content-between">
+                        <p>Tổng tiền phải thanh toán : </p>
+                        <span>320,000 <b>đ</b></span>
+                    </div>
+                    <div class="giaohang">
+                        <p>Giao hàng miễn phí</p>
+                        <span>Đây chỉ là ước tính. Giá sẽ cập nhật trong quá trình thanh toán</span>
+                    </div>
+                    <a href="#">Tiến hành thanh toán</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- footer -->
+    <footer>
+        <div class="desc">
+            <h2>Đăng ký để nhận cập nhật</h2>
+            <p>______________</p>
+            <p>Để lại email để không bỏ lỡ bất kì ưu đãi nào</p>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 footer__item">
+                    <div class="footer__logo">
+                        <img src="../img/logo-new.png" alt="">
+                    </div>
+                    <p>Nhóm 6 - Thiết kế Web</p>
+                    <p>123456789</p>
+                    <p>nchieu2909@gmail.com</p>
+                </div>
+                <div class="col-md-3 footer__item">
+                    <h4>menu</h4>
+                    <ul>
+                        <li><a href="TrangChu.html">Trang chủ</a></li>
+                        <li><a href="GioiThieu.html">Giới thiệu</a></li>
+                        <li><a href="CuaHang.html">Cửa hàng</a></li>
+                        <li><a href="Kienthuc.html">Kiến thức</a></li>
+                        <li><a href="LienHe.html">Liên hệ</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 footer__item">
+                    <h4>SẢN PHẨM</h4>
+                    <ul>
+                        <li><a href="#">Rau củ</a></li>
+                        <li><a href="#">Trái cây</a></li>
+                        <li><a href="#">Đồ uống</a></li>
+                        <li><a href="#">Đồ khô</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 footer__item">
+                    <h4>INSTAGRAM</h4>
+                    <p>Instagram did not return a 200.</p>
+                </div>
+            </div>
+        </div>
+        <div class="info ">
+            <p> © Bản quyền thuộc về . Thiết kế website Nhóm 6</p>
+        </div>
+    </footer>
+    <div id="ScrollTop" class="">
+        <i class="fa-solid fa-angle-up"></i>
+    </div>
+    <div class="mb_menu">
+        <div class="overlay"></div>
+        <ul class="">
+            <li class="active"><a href="TrangChu.html">Trang chủ</a></li>
+            <li><a href="GioiThieu.html">Giới thiệu</a></li>
+            <li class="menu1">
+                <a href="javascript:void(0)">cửa hàng<i class="fa-solid fa-angle-down"></i></a>
+            </li>
+            <li>
+                <ul class="mb-menu2">
+                    <li><a href="#">Rau củ</a></li>
+                    <li><a href="#">Trái cây</a></li>
+                    <li><a href="#">Đồ uống</a></li>
+                    <li><a href="#">Đồ khô</a></li>
+                </ul>
+            </li>
+            <li><a href="Kienthuc.html">kiến thức</a></li>
+            <li><a href="LienHe.html">Liên hệ</a></li>
+        </ul>
+        <i class="fa-solid fa-xmark close-search"></i>
+    </div>
+
+</body>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"
+    integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="../js/base.js"></script>
+<script>
+    $('.icon-close').click(function () {
+        let parent = $(this).parents('tr');
+        parent.remove();
+    });
+</script>
+
+</html>

@@ -1,0 +1,849 @@
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.dll.config
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.pdb
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.exe
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.exe.config
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.rsp
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.exe
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.exe.config
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.rsp
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Managed.Core.targets
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.AppContext.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Collections.Immutable.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Console.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Globalization.Calendars.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.Compression.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.FileSystem.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Net.Http.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Net.Sockets.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Reflection.Metadata.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.ValueTuple.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XmlDocument.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XPath.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.exe
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.exe.config
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.rsp
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\VBCSCompiler.exe
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\VBCSCompiler.exe.config
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Antlr3.Runtime.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.SqlServer.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.Web.Infrastructure.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Newtonsoft.Json.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Helpers.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Mvc.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Optimization.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Razor.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Deployment.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Razor.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebGrease.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.xml
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.SqlServer.xml
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Helpers.xml
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Mvc.xml
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Optimization.xml
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Razor.xml
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.xml
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Deployment.xml
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Razor.xml
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Newtonsoft.Json.xml
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Antlr3.Runtime.pdb
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.AssemblyReference.cache
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.CoreCompileInputs.cache
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.CopyComplete
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.dll
+E:\UTC_CNTT\nam3_cntt\cntt_3.2\Lập trình web\code net\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.pdb
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.dll.config
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.pdb
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebGrease.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.CopyComplete
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.dll
+C:\Users\Admin\Desktop\BTL_web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.pdb
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.dll.config
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.pdb
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.exe
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.exe.config
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.rsp
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.exe
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.exe.config
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.rsp
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.AppContext.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Collections.Immutable.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Console.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Globalization.Calendars.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.Compression.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.FileSystem.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Net.Http.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Net.Sockets.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Reflection.Metadata.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.ValueTuple.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XPath.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.exe
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.exe.config
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.rsp
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\VBCSCompiler.exe
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\VBCSCompiler.exe.config
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Antlr3.Runtime.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.SqlServer.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.Web.Infrastructure.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Newtonsoft.Json.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Helpers.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Mvc.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Optimization.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Razor.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Deployment.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Razor.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebGrease.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.SqlServer.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Helpers.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Mvc.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Optimization.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Razor.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Deployment.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Razor.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Newtonsoft.Json.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Antlr3.Runtime.pdb
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.CoreCompileInputs.cache
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.CopyComplete
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.pdb
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.dll.config
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.pdb
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebGrease.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.CopyComplete
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.dll
+C:\Users\Admin\Downloads\Programs\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.pdb
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.dll.config
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.pdb
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.exe
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.exe.config
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.rsp
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.exe
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.exe.config
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.rsp
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.AppContext.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Collections.Immutable.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Console.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Globalization.Calendars.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.Compression.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.FileSystem.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Net.Http.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Net.Sockets.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Reflection.Metadata.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.ValueTuple.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XPath.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.exe
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.exe.config
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.rsp
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\VBCSCompiler.exe
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\VBCSCompiler.exe.config
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Antlr3.Runtime.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.SqlServer.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.Web.Infrastructure.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Newtonsoft.Json.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Helpers.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Mvc.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Optimization.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Razor.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Deployment.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Razor.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebGrease.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.SqlServer.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Helpers.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Mvc.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Optimization.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Razor.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Deployment.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Razor.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Newtonsoft.Json.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Antlr3.Runtime.pdb
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.AssemblyReference.cache
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.CoreCompileInputs.cache
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.CopyComplete
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.pdb
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.pdb
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.dll.config
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.pdb
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebGrease.dll
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.CopyComplete
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\PagedList.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\PagedList.Mvc.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\PagedList.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\BTL\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\PagedList.Mvc.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.dll.config
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.pdb
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.exe
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.exe.config
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.rsp
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.exe
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.exe.config
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.rsp
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.AppContext.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Collections.Immutable.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Console.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Globalization.Calendars.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.Compression.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.FileSystem.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Net.Http.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Net.Sockets.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Reflection.Metadata.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.ValueTuple.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XPath.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.exe
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.exe.config
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.rsp
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\VBCSCompiler.exe
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\VBCSCompiler.exe.config
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Antlr3.Runtime.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.SqlServer.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.Web.Infrastructure.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Newtonsoft.Json.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\PagedList.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\PagedList.Mvc.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Helpers.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Mvc.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Optimization.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Razor.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Deployment.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Razor.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebGrease.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.SqlServer.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\PagedList.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\PagedList.Mvc.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Helpers.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Mvc.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Optimization.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Razor.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Deployment.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Razor.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Newtonsoft.Json.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Antlr3.Runtime.pdb
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.AssemblyReference.cache
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.CoreCompileInputs.cache
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.CopyComplete
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\BTL_Nhom6\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.pdb
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.dll.config
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.pdb
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\PagedList.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\PagedList.xml
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.CopyComplete
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.dll
+C:\Users\Admin\Desktop\Web-N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.pdb
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.dll.config
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.pdb
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.exe
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.exe.config
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.rsp
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.exe
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.exe.config
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.rsp
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.AppContext.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Collections.Immutable.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Console.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Globalization.Calendars.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.Compression.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.FileSystem.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Net.Http.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Net.Sockets.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Reflection.Metadata.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.ValueTuple.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XPath.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.exe
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.exe.config
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.rsp
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\VBCSCompiler.exe
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\VBCSCompiler.exe.config
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Antlr3.Runtime.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.SqlServer.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.Web.Infrastructure.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Newtonsoft.Json.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\PagedList.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\PagedList.Mvc.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Helpers.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Mvc.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Optimization.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Razor.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Deployment.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Razor.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebGrease.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.SqlServer.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\PagedList.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\PagedList.Mvc.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Helpers.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Mvc.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Optimization.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Razor.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Deployment.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Razor.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Newtonsoft.Json.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Antlr3.Runtime.pdb
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.AssemblyReference.cache
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.CoreCompileInputs.cache
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.CopyComplete
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.dll
+D:\CNTT2\Ki 2 Nam 3\Lap trinh web\Web_THucPham\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.pdb
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.dll.config
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebQLCuaHangThucPham.pdb
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\PagedList.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\PagedList.Mvc.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\WebGrease.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\PagedList.xml
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\PagedList.Mvc.xml
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.csproj.CopyComplete
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.dll
+C:\Users\Admin\Downloads\WebThucPham_Nhom6_N02\WebThucPham_Nhom6_N02\BTL_Web\WebQLCuaHangThucPham\WebQLCuaHangThucPham\obj\Debug\WebQLCuaHangThucPham.pdb

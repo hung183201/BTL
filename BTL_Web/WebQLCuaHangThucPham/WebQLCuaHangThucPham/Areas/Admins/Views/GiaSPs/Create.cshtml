@@ -1,0 +1,58 @@
+﻿@model WebQLCuaHangThucPham.Models.GiaSP
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Areas/Admins/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="card">
+    <div class="card-body">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-horizontal  ">
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                
+                <div class="form-group row">
+                    @Html.LabelFor(model => model.MaSP, "MaSP", htmlAttributes: new { @class = "control-label col-md-3" })
+                    <div class="col-md-9">
+                        @Html.DropDownList("MaSP", null, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.MaSP, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group row">
+                    @Html.LabelFor(model => model.Gia, htmlAttributes: new { @class = "control-label col-md-3" })
+                    <div class="col-md-9">
+                        @Html.EditorFor(model => model.Gia, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Gia, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group row">
+                    @Html.LabelFor(model => model.Time_Begin, htmlAttributes: new { @class = "control-label col-md-3" })
+                    <div class="col-md-9">
+                        @Html.TextBoxFor(model => model.Time_Begin, new { @class = "form-control", type = "datetime-local" })
+                        @Html.ValidationMessageFor(model => model.Time_Begin, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    @Html.LabelFor(model => model.Time_End, htmlAttributes: new { @class = "control-label col-md-3" })
+                    <div class="col-md-9">
+                        @Html.TextBoxFor(model => model.Time_End, new { @class = "form-control", type = "datetime-local" })
+                        @Html.ValidationMessageFor(model => model.Time_End, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+            <div class="form-group w-100">
+                <div class="col-md-12 d-flex justify-content-end">
+                    <input type="submit" value="Ghi lại" class="btn btn-success mr-1" />
+                    <a href="index" class="btn btn-danger mx-1">Quay lại</a>
+                </div>
+            </div>
+
+        }
+
+    </div>
+</div>

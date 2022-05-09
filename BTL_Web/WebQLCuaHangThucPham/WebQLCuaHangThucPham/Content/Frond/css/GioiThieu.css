@@ -1,0 +1,84 @@
+body{
+    font-family: RobotoSlab-Medium;
+}
+.banner {
+    text-align: center;
+    background-image: url('../img/bn.jpg');
+    padding: 3rem 0;
+}
+.banner h2{
+    color: #fff;
+    margin-bottom: 1rem;
+}
+.banner ul li{
+    margin: 0 .5rem;
+    color: #fff;
+
+}
+.banner ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+.main{
+    margin: 5rem 0;
+    text-align: center;
+}
+.main h1{
+    font-size: 3.3rem;
+    font-family: RobotoSlab-Bold;
+}
+.main .container >p{
+    color: #999;
+    margin-top: 3rem;
+    margin-bottom: 5rem;
+}
+.item{
+    margin-bottom: 3rem;
+}
+.item__img{
+    width: 5rem;
+    height: 5rem;
+    overflow: hidden;
+    margin: auto;
+}
+.item__img img{
+    width: 100%;
+}
+.item h5{
+    margin: 1rem 0;
+}
+.item p{
+    color: #999;
+}
+.main__img{
+    width: 100%;
+    margin-top: 5rem;
+}
+.main__img img{
+    width: 100%;
+}
+@media (max-width: 575.98px) {
+    .main h1{
+        font-size: 2.5rem;
+    }
+    .main {
+        margin: 3rem 0;
+    }
+    .main .container >p {
+        margin-top: 2rem;
+        margin-bottom: 3rem;
+    }
+    .main__img{
+        margin: 1rem 0;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {}
+
+@media (min-width: 768px) and (max-width: 991.98px) {}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+
+@media (min-width: 1200px) {
+    
+}

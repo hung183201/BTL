@@ -1,0 +1,39 @@
+body{
+    font-family: RobotoSlab-Medium;
+}
+.title{
+    border-bottom: 1px solid #ddd;
+    padding: .5rem;
+    display: flex;
+    justify-content: space-between;
+}
+.title h6{
+    font-weight: bold;
+}
+.title p{
+    margin: 0;
+    color: #777;
+}
+.title span{
+    color: var(--mainColor);
+}
+.right{
+    padding: 2rem;
+    background-color: rgba(0,0,0,0.02);
+    box-shadow: 1px 1px 3px 0px rgb(0 0 0 / 20%), 0 1px 0 rgb(0 0 0 / 7%), inset 0 0 0 1px rgb(0 0 0 / 5%);
+}
+.right span{
+    color: var(--mainColor);
+}
+ul{
+    padding: 0;
+}
+.right ul li{
+    list-style: disc;
+    display: flex;
+    margin: .5rem;
+}
+.right ul li p{
+    margin: 0 .5rem 0 0;
+    font-size: .9rem;
+}

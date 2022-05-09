@@ -1,0 +1,50 @@
+﻿@using WebQLCuaHangThucPham.Models;
+@model List<GioHang>
+
+<li id="giohang">
+    @Html.Action("GioHangPartial", "GioHang")
+    <div class="cart">
+        @if (Model.Count == 0)
+        {
+            <p>Chưa có sản phẩm nào</p>
+        }
+        else
+        {
+            foreach (var item in Model)
+            {
+                <div class="cart__item d-flex">
+                    <div class="cart__item__img">
+                        <a href="@Url.Action("ChiTietSanPham","Products")">
+                            <img src="~/Content/Frond/img/@item.AnhSP" alt="">
+                        </a>
+                    </div>
+                    <div class="cart__info">
+                        <a href="@Url.Action("ChiTietSanPham","Products")">@item.TenSP</a>
+                        <div class="cart__quantity d-flex align-items-center">
+                            <p>@item.SL</p>
+                            <p>x</p>
+                            <span> @String.Format("{0:N0}", item.Gia)</span>
+                        </div>
+                    </div>
+                    <a href="@Url.Action("XoaGioHang", "GioHang", new { @MaSP = item.MaSP })">
+                        <i class="fa-solid fa-xmark close"></i>
+
+                    </a>
+                </div>
+            }
+            <div class="total d-flex justify-content-center">
+                <p>Tổng : </p>
+                <span>  @String.Format("{0:N0}", ViewBag.TongTien)<b>đ</b></span>
+            </div>
+            <a href="@Url.Action("GioHang","GioHang")">
+                <button class="green">Xem giỏ hàng</button>
+            </a>
+            <a href="@Url.Action("Index","ThanhToan")">
+                <button class="red">Thanh toán</button>
+            </a>
+           
+        }
+    </div>
+
+
+</li>

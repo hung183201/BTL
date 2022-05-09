@@ -1,0 +1,98 @@
+﻿
+@{
+    ViewBag.Title = "Kienthuc";
+    Layout = "~/Views/Shared/_LayoutMain.cshtml";
+    <link href="~/Content/Frond/css/KienThuc.css" rel="stylesheet" />
+}
+
+@using WebQLCuaHangThucPham.Models;
+@model List<TinTuc>
+
+<section>
+
+    <div class="container">
+        <h2>KIẾN THỨC</h2>
+        <div class="row main">
+            <div class="col-md-4 col-xl-3">
+                <div class="science__info">
+                    <div class="science__search d-flex justify-content-start align-items-center">
+                        <input type="text" placeholder="Tìm kiếm...">
+                        <button>
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                        </button>
+                    </div>
+                </div>
+                <div class="science__news">
+                    <p>Bài viết mới</p>
+                    <ul>
+                        <li>
+                            <a href="#">
+                                <div class="science__news__img">
+                                    <img src="~/Content/Frond/img/new1.jpg" alt="">
+                                </div>
+                                <p>Nấm vân chi có tác dụng gì?</p>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <div class="science__news__img">
+                                    <img src="~/Content/Frond/img/new2.jpg" alt="">
+                                </div>
+                                <p>Nấm vân chi có tác dụng gì?</p>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <div class="science__news__img">
+                                    <img src="~/Content/Frond/img/new3.jpg" alt="">
+                                </div>
+                                <p>Nấm vân chi có tác dụng gì?</p>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <div class="science__news__img">
+                                    <img src="~/Content/Frond/img/new4.jpg" alt="">
+                                </div>
+                                <p>Nấm vân chi có tác dụng gì?</p>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <div class="science__news__img">
+                                    <img src="~/Content/Frond/img/new5.jpg" alt="">
+                                </div>
+                                <p>Nấm vân chi có tác dụng gì?</p>
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-8 col-xl-9">
+                <div class="row ">
+                    @foreach (var item in Model)
+                    {
+                        <div class="col-md-6 col-xl-4 mb-4">
+                            <a href="#" class="news_item">
+                                <div class="item__img">
+                                    <img src="~/Content/Frond/img/@item.Anh" alt="">
+                                </div>
+                                <div class="item_date">
+                                    <p>16</p>
+                                    <span>Th5</span>
+                                </div>
+                                <div class="new_item__info">
+                                    <p>@item.MoTa </p>
+                                    <span>@item.ND</span>
+                                </div>
+                            </a>
+                        </div>
+                    }
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>

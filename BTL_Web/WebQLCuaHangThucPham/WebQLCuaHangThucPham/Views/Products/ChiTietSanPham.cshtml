@@ -1,0 +1,129 @@
+﻿@model WebQLCuaHangThucPham.Models.SanPham
+@{
+    ViewBag.Title = "ChiTietSanPham";
+    Layout = "~/Views/Shared/_LayoutMain.cshtml";
+    var Anh = ViewBag.Anh as List<WebQLCuaHangThucPham.Models.AnhSP>;
+    //var gia = ViewBag.Gia as List<WebQLCuaHangThucPham.Models.GiaSP>;
+}
+<link rel="stylesheet" href="~/Content/Frond/css/ChiTietSanPham.css">
+
+<section class="main mt-5">
+    <div class="container">
+        <form class="form-sanpham">
+            <input type="text" name="MaSP" value="@Model.MaSP" hidden />
+            <input type="text" name="Url" value="@Request.Url.ToString()" hidden />
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="product__slide-img">
+                        <div class="row">
+                            <div class="main__img">
+                                <i class="fa-solid fa-chevron-left left"></i>
+                                <img src="~/Content/Frond/img/@Anh[0].URL" alt="">
+                                <i class="fa-solid fa-chevron-right right"></i>
+                            </div>
+                        </div>
+                        <div class="row mt-4">
+                            <div class="col-3 img__slide">
+                                <img src="~/Content/Frond/img/@Anh[0].URL" alt="" index="1"
+                                     class="active">
+                            </div>
+                            @for (int i = 1; i < Anh.Count; i++)
+                            {
+                                <div class="col-3 img__slide">
+                                    <img src="~/Content/Frond/img/@Anh[i].URL" alt="" index="@(i + 1)">
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 ">
+                    <div class="product__info">
+                        <ul class="d-flex align-items-center">
+                            <li><a href="@Url.Action("Index", "TrangChu")"> Trang chủ</a></li>
+                            <li>/</li>
+                            <li><a href="@Url.Action("SanPham", "Products")"> cửa hàng</a></li>
+                        </ul>
+                        <h2>@Model.TenSP</h2>
+                        <p class="price">@String.Format("{0:N0}", ViewBag.Gia) <b>đ</b></p>
+                        <span>
+                            @Model.GTSP
+                            <b>Lorem Ipsum</b> chỉ đơn giản là một đoạn văn bản giả, được dùng vào việc trình bày và
+                            dàn trang phục vụ cho in ấn. Lorem Ipsum đã được sử dụng như một văn bản chuẩn cho ngành
+                            công nghiệp in ấn
+                        </span>
+                        <div class="add__product d-flex align-items-center">
+                            <div class="quantity d-flex align-items-center">
+                                <span class="tru">-</span>
+                                <input class="input" type="number" name="SL" value="1" min="1">
+                                <span class="cong">+</span>
+                            </div>
+                            <button type="button" style="cursor:pointer;">thêm vào giỏ </button>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 ship">
+                                <p>Tính phí ship tự động</p>
+                                <div class="row">
+                                    <div class="ship__img col-4">
+                                        <img src="~/Content/Frond/img/logo-ghn.jpg" alt="">
+                                    </div>
+                                    <div class="ship__img col-4">
+                                        <img src="~/Content/Frond/img/logo-ghtk.jpg" alt="">
+                                    </div>
+                                    <div class="ship__img col-4">
+                                        <img src="~/Content/Frond/img/logo-ninja-van.jpg" alt="">
+                                    </div>
+                                    <div class="ship__img col-4">
+                                        <img src="~/Content/Frond/img/logo-shipchung.jpg" alt="">
+                                    </div>
+                                    <div class="ship__img col-4">
+                                        <img src="~/Content/Frond/img/logo-vib.jpg" alt="">
+                                    </div>
+                                    <div class="ship__img col-4">
+                                        <img src="~/Content/Frond/img/logo-viettle-post.jpg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 ship">
+                                <p>Thanh toán</p>
+                                <div class="row">
+                                    <div class="ship__img col-4">
+                                        <img src="~/Content/Frond/img/logo-acb.jpg" alt="">
+                                    </div>
+                                    <div class="ship__img col-4">
+                                        <img src="~/Content/Frond/img/logo-techcombank.jpg" alt="">
+                                    </div>
+                                    <div class="ship__img col-4">
+                                        <img src="~/Content/Frond/img/logo-vib.jpg" alt="">
+                                    </div>
+                                    <div class="ship__img col-4">
+                                        <img src="~/Content/Frond/img/logo-vcb.jpg" alt="">
+                                    </div>
+                                    <div class="ship__img col-4">
+                                        <img src="~/Content/Frond/img/logo-paypal.jpg" alt="">
+                                    </div>
+                                    <div class="ship__img col-4">
+                                        <img src="~/Content/Frond/img/logo-mastercard.jpg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+
+        <h2>Sản phẩm tương tự</h2>
+        <div class="slide">
+            <div class="product__promotions ">
+                @Html.Action("SanPhamTuongTu", "Products", new { @MaLoaiSP = Model.MaLoai })
+            </div>
+            <i class="fa-solid fa-chevron-left prev"></i>
+            <i class="fa-solid fa-chevron-right next"></i>
+        </div>
+    </div>
+</section>
+
+<script>
+   
+</script>

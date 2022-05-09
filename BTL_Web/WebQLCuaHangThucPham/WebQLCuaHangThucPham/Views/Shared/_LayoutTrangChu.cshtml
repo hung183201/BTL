@@ -1,0 +1,319 @@
+﻿@using WebQLCuaHangThucPham.Models
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CleverFood</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+          integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"
+          integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/Content/Frond/css/base.css">
+    <link rel="stylesheet" href="~/Content/Frond/css/TrangChu.css">
+</head>
+
+<body>
+    <!-- header -->
+    <header>
+        <div class="container d-flex align-items-center justify-content-between h-100">
+            <div class="menu_main d-flex align-items-center justify-content-between">
+                <div class="logo">
+                    <a href="@Url.Action("Index", "TrangChu")">cleverfood</a>
+                </div>
+                <nav class="menu">
+                    <ul class="d-flex align-items-center ">
+                        <li class="active"><a href="@Url.Action("Index", "TrangChu")">Trang chủ</a></li>
+                        <li><a href="@Url.Action("Index", "GioiThieu")">Giới thiệu</a></li>
+                        <li class="menu1">
+                            <a href="@Url.Action("SanPham","Products")">cửa hàng</a>
+                            <i class="fa-solid fa-angle-down"></i>
+                            <ul class="menu2">
+                                @Html.Action("LoaiSanPham", "Products")
+                            </ul>
+                        </li>
+                        <li><a href="@Url.Action("Kienthuc","KienThuc")">kiến thức</a></li>
+                        <li><a href="@Url.Action("LienHe","LienHe")">Liên hệ</a></li>
+                    </ul>
+                </nav>
+                <ul class="header__icon d-flex align-items-center ">
+                    <li><i class="fa-solid fa-magnifying-glass icon-search"></i></li>
+                    @Html.Action("CartGioHang", "GioHang")
+                    @*chưa đăng nhập*@
+                     @if (CurrentUser.MaKH == 0)
+                    {
+                        <li> <i class="fa-solid fa-user icon-login"></i></li>
+                    }
+
+                    @*//Đã đăng nhập*@
+                    @if (CurrentUser.MaKH != 0)
+                    {
+                        <li style="margin-left:3rem">@CurrentUser.TenKH</li>
+                        <li style="margin-left:.5rem">
+                            <a href="~/Login/DangXuat"><i class="fa-solid fa-right-from-bracket"></i></a>
+                        </li>
+                    }
+                </ul>
+            </div>
+            <div class="mb-menu d-flex align-items-center justify-content-between w-100">
+                <div class="icon-menu">
+                    <i class="fa-solid fa-bars"></i>
+                </div>
+                <div class="logo">
+                    <a href="TrangChu.html">cleverfood</a>
+                </div>
+                <ul class="header__icon d-flex align-items-center ">
+                    <li><i class="fa-solid fa-magnifying-glass icon-search"></i></li>
+                    @Html.Action("CartGioHang", "GioHang")
+                    @*chưa đăng nhập*@
+                    @if (CurrentUser.MaKH == 0)
+                    {
+                        <li> <i class="fa-solid fa-user icon-login"></i></li>
+                    }
+
+                    @*//Đã đăng nhập*@
+                    @if (CurrentUser.MaKH != 0)
+                    {
+                        <li>
+                            <a href="~/Login/DangXuat"><i class="fa-solid fa-right-from-bracket username"></i></a>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </header>
+    <!-- search login cart -->
+    @Html.Action("DangNhap", "Login")
+    <!-- main -->
+    <section>
+
+        <!-- Slide Banner -->
+        <div class="slideBanner">
+            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="item__info">
+                            <div class="slide__info">
+                                <p>Walnuts</p>
+                                <h1>100% tự nhiên</h1>
+                                <span>Giảm giá khi mua hàng hôm nay</span>
+                                <a href="@Url.Action("SanPham","Products")">mua ngay</a>
+                            </div>
+                            <div class="slide__img">
+                                <img src="~/Content/Frond/img/imgslide22.png" alt="imgslide13">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item ">
+                        <div class="item__info">
+                            <div class="slide__info">
+                                <p>Apple Juice</p>
+                                <h1>100% tự nhiên</h1>
+                                <span>Giảm giá khi mua hàng hôm nay</span>
+                                <a href="@Url.Action("SanPham","Products")">mua ngay</a>
+                            </div>
+                            <div class="slide__img">
+                                <img src="~/Content/Frond/img/imgslide13.png" alt="imgslide22">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+        <div class="container banner">
+            <div class="row banner__info">
+                <div class="col-md-6 banner__item">
+                    <a href="javascript:void(0)" class="banner__img">
+                        <img src="~/Content/Frond/img/banner28.jpg" alt="">
+                    </a>
+                </div>
+                <div class="col-md-6 banner__item">
+                    <a href="javascript:void(0)" class="banner__img">
+                        <img src="~/Content/Frond/img/banner34.jpg" alt="">
+                    </a>
+                </div>
+                <div class="col-md-6 banner__item">
+                    <a href="javascript:void(0)" class="banner__img">
+                        <img src="~/Content/Frond/img/banner35.jpg" alt="">
+                    </a>
+                </div>
+                <div class="col-md-6 banner__item">
+                    <a href="javascript:void(0)" class="banner__img">
+                        <img src="~/Content/Frond/img/banner36.jpg" alt="">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <!-- featured products -->
+        <div class="container">
+            <div class="product__fearured">
+                <h2>Sản phẩm nổi bật</h2>
+                <ul class="classify d-flex justify-content-center">
+                    <li class="active">Mới nhất</li>
+                    <li>Giảm gía</li>
+                    <li>Bán chạy</li>
+                </ul>
+                @RenderBody()
+            </div>
+        </div>
+        <div class="desc">
+            <h2>Khuyến Mãi Trong Tuần</h2>
+            <p>______________</p>
+            <p>Cơ hội để gia đình bạn sở hữu những sản phẩm ưu đãi</p>
+        </div>
+        <div class="container">
+            <div class="product__promotion ">
+                @Html.Action("KM", "TrangChu")
+            </div>
+            <div class="row product__class">
+                <div class="col-md-3 product__class__img">
+                    <a href="#">
+                        <img src="~/Content/Frond/img/banner29.jpg" alt="">
+                    </a>
+                </div>
+                <div class="col-md-9">
+                    <div class="row">
+                        <div class="col-md-4 product__class__img"><img src="~/Content/Frond/img/banner30.jpg" alt=""></div>
+                        <div class="col-md-4 product__class__img"><img src="~/Content/Frond/img/banner31.jpg" alt=""></div>
+                        <div class="col-md-4 product__class__img"><img src="~/Content/Frond/img/banner32.jpg" alt=""></div>
+                    </div>
+                    <div class="row mt-4">
+                        <div class="col-md-4 text-center d-flex flex-column justify-content-center align-items-center">
+                            <h2>100%</h2>
+                            <p>natural</p>
+                        </div>
+                        <div class="col-md-8 product__class__img">
+                            <img src="~/Content/Frond/img/banner33.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="brand">
+                <div class="brand__img">
+                    <img src="~/Content/Frond/img/brand1-1.png" alt="">
+                </div>
+                <div class="brand__img">
+                    <img src="~/Content/Frond/img/brand2-1.png" alt="">
+                </div>
+                <div class="brand__img">
+                    <img src="~/Content/Frond/img/brand1-1.png" alt="">
+                </div>
+                <div class="brand__img">
+                    <img src="~/Content/Frond/img/brand2-1.png" alt="">
+                </div>
+                <div class="brand__img">
+                    <img src="~/Content/Frond/img/brand1-1.png" alt="">
+                </div>
+                <div class="brand__img">
+                    <img src="~/Content/Frond/img/brand2-1.png" alt="">
+                </div>
+                <div class="brand__img">
+                    <img src="~/Content/Frond/img/brand1-1.png" alt="">
+                </div>
+                <div class="brand__img">
+                    <img src="~/Content/Frond/img/brand2-1.png" alt="">
+                </div>
+                <div class="brand__img">
+                    <img src="~/Content/Frond/img/brand1-1.png" alt="">
+                </div>
+                <div class="brand__img">
+                    <img src="~/Content/Frond/img/brand2-1.png" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- footer -->
+    <footer>
+        <div class="desc">
+            <h2>Đăng ký để nhận cập nhật</h2>
+            <p>______________</p>
+            <p>Để lại email để không bỏ lỡ bất kì ưu đãi nào</p>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 footer__item">
+                    <div class="footer__logo">
+                        <img src="~/Content/Frond/img/logo-new.png" alt="">
+                    </div>
+                    <p>Nhóm 6 - Thiết kế Web</p>
+                    <p>123456789</p>
+                    <p>nchieu2909@gmail.com</p>
+                </div>
+                <div class="col-md-3 footer__item">
+                    <h4>menu</h4>
+                    <ul>
+                        <li><a href="@Url.Action("Index", "TrangChu")">Trang chủ</a></li>
+                        <li><a href="@Url.Action("Index", "GioiThieu")">Giới thiệu</a></li>
+                        <li><a href="@Url.Action("SanPham", "Products")">Cửa hàng</a></li>
+                        <li><a href="@Url.Action("Kienthuc","KienThuc")">kiến thức</a></li>
+                        <li><a href="@Url.Action("LienHe","LienHe")">Liên hệ</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 footer__item">
+                    <h4>SẢN PHẨM</h4>
+                    <ul>
+                        @Html.Action("LoaiSanPham", "Products")
+                    </ul>
+                </div>
+                <div class="col-md-3 footer__item">
+                    <h4>INSTAGRAM</h4>
+                    <p>Instagram did not return a 200.</p>
+                </div>
+            </div>
+        </div>
+        <div class="info ">
+            <p> © Bản quyền thuộc về . Thiết kế website Nhóm 6</p>
+        </div>
+    </footer>
+    <div id="ScrollTop" class="">
+        <i class="fa-solid fa-angle-up"></i>
+    </div>
+    <div class="mb_menu">
+        <div class="overlay"></div>
+        <ul class="">
+            <li class="active"><a href="@Url.Action("Index", "TrangChu")">Trang chủ</a></li>
+            <li><a href="@Url.Action("Index", "GioiThieu")">Giới thiệu</a></li>
+            <li class="menu1">
+                <a href="javascript:void(0)">cửa hàng<i class="fa-solid fa-angle-down"></i></a>
+            </li>
+            <li>
+                <ul class="mb-menu2">
+                    @Html.Action("LoaiSanPham", "Products")
+                </ul>
+            </li>
+            <li><a href="@Url.Action("Kienthuc","KienThuc")">kiến thức</a></li>
+            <li><a href="@Url.Action("LienHe","LienHe")">Liên hệ</a></li>
+        </ul>
+        <i class="fa-solid fa-xmark close-search"></i>
+    </div>
+</body>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"
+        integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="~/Content/Frond/js/base.js"></script>
+</html>

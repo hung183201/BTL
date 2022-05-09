@@ -1,0 +1,38 @@
+﻿@using WebQLCuaHangThucPham.Models;
+@using PagedList.Mvc;
+@model PagedList.IPagedList<SanPham>
+@{
+    ViewBag.Title = "SanPham";
+    Layout = "~/Views/Shared/_LayoutCuaHang.cshtml";
+}
+
+@{foreach (var item in Model)
+    {
+        var db = new QLCuaHangThucPhamEntities1();
+        var a = db.AnhSPs.Where(x => x.MaSP == item.MaSP).First().URL;
+        var Gia = db.GiaSPs.Where(x => x.MaSP == item.MaSP && x.Time_Begin < DateTime.Now).First();
+
+        <div class="col-md-6 col-lg-4 prd">
+            <div class="product_item" maloai="@ViewBag.MaLoaiHienTai">
+                <div class="item__img">
+                    <a href="@Url.Action("ChiTietSanPham", "Products", new { @MaSP = item.MaSP })">
+                        <img src="~/Content/Frond/img/@a" alt="Alternate Text" />
+                    </a>
+                </div>
+                <a href="@Url.Action("ChiTietSanPham", "Products", new { @MaSP = item.MaSP })">@item.TenSP</a>
+                <span><b class="tien">@String.Format("{0:N0}", Gia.Gia)</b> <b>đ</b></span>
+            </div>
+        </div>
+    }
+}
+
+<div class="pagination" maloai="@ViewBag.MaLoaiHienTai"> 
+    <ul class="d-flex align-items-center justify-content-center w-100">
+       @Html.PagedListPager(Model, page => Url.Action("SanPham", new { page = page, MaLoai = ViewBag.MaLoai }))
+    </ul>
+</div>
+
+<script>
+
+   
+</script>

@@ -1,0 +1,40 @@
+﻿
+<div class="modalShow">
+    <div class="overlay"></div>
+    @*Search*@
+    <div class="modal__search">
+        <div class="overlay"></div>
+        <input type="text" name="txtKeyWord" placeholder="Tìm kiếm...">
+        <i class="fa-solid fa-magnifying-glass icon-search"></i>
+    </div>
+    @*login*@
+    <div class="modal__login">
+        <h3>Đăng nhập</h3>
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+            <h2>@ViewBag.ThongBao</h2>
+            <div class="login__input">
+                <p>Tên tài khoản hoặc địa chỉ email <sup>*</sup></p>
+                @Html.TextBox("txtTaiKhoan", "", new { @class = "form-control", @placeholder = "Username" })
+            </div>
+            <div class="login__input">
+                <p>Mật khẩu <sup>*</sup> </p>
+                @Html.Password("txtMatKhau", "", new { @class = "form-control rounded-left", @placeholder = "Password" })
+            </div>
+            <div class="button d-flex justify-content-between">
+                <button type="button" class="btnlogin colormain">đăng nhập</button>
+                <button type="button" class="btnregis colorgray">đăng ký</button>
+            </div>
+            <div class="login__info__desc d-flex ">
+                <div class="savePassword ">
+                    <input type="checkbox" name="" id="">
+                    <label for="">Ghi nhớ mật khẩu</label>
+                </div>
+                <a href="#">Quên mật khẩu?</a>
+            </div>
+        }
+    </div>
+    @*dang ky*@
+    @Html.Action("Dangky", "Login")
+</div>

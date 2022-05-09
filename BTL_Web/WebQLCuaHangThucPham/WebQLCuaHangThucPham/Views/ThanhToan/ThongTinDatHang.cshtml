@@ -1,0 +1,55 @@
+﻿@using WebQLCuaHangThucPham.Models;
+@model List<GioHang>
+@{
+    ViewBag.Title = "DatHang";
+    Layout = "~/Views/Shared/_LayoutMain.cshtml";
+}
+<link href="~/Content/Frond/css/success.css" rel="stylesheet" />
+<section class="main mt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-7">
+                <h4>Chi tiết đơn hàng</h4>
+                <div class="title">
+                    <h6>SẢN PHẨM</h6>
+                    <h6>TỔNG</h6>
+                </div>
+                @foreach (var item in Model)
+                {
+                    <div class="title">
+                        <p>@item.TenSP  <span>x <b>@item.SL</b></span></p>
+                        <span>@String.Format("{0:N0}", @item.Gia) <b>đ</b></span>
+                    </div>
+                }
+                <div class="title">
+                    <p>Giao hàng </p>
+                    <p>Giao hàng miễn phí</p>
+                </div>
+                <div class="title">
+                    <p>Phương thức thanh toán: </p>
+                    <p>@ViewBag.Phuongthuc</p>
+                </div>
+                <div class="title">
+                    <p>Tổng  </p>
+                    <span> @String.Format("{0:N0}", @ViewBag.TongTien) <b>đ</b></span>
+                </div>
+            </div>
+            <div class="col-md-5 right">
+                <span>Cảm ơn bạn. Đơn hàng của bạn đã được nhận.</span>
+                <ul>
+                    <li><p>Mã đơn hàng :</p> <b>@ViewBag.MaDH</b></li>
+                    <li><p>Ngày :</p> <b>@DateTime.Now.ToString("dd-MM-yyyy")</b></li>
+                    <li><p>Tổng cộng : </p> <span>@String.Format("{0:N0}", @ViewBag.TongTien) <b>đ</b></span></li>
+                    <li><p>Phương thức thanh toán : </p> <b>@ViewBag.Phuongthuc</b></li>
+                </ul>
+            </div>
+        </div>
+        <div class="button">
+            @*<a class="back" href="@Url.Action("SanPham","Products")">Quay lại cửa hàng</a>
+            *@
+            <a class="back" href="@Url.Action("RestartGioHang","ThanhToan")">Quay lại cửa hàng</a>
+
+        </div>
+</section>
+
+

@@ -1,0 +1,15 @@
+﻿@using WebQLCuaHangThucPham.Models;
+@model List<LoaiSP>
+
+@{ 
+    int MaLoaiHientai = ViewBag.MaLoaiHienTai ?? 0;
+}
+@foreach (var item in Model)
+{
+    <li class=@(MaLoaiHientai == item.MaLoai ? "active" : "")>
+        <a href="@Url.Action("ChiTietLoaiSP","Products",new { @MaLoai = item.MaLoai})" id-masp="@item.MaLoai">@item.TenLoai</a>
+    </li>
+}
+
+
+

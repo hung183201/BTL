@@ -1,0 +1,76 @@
+﻿@model IEnumerable<WebQLCuaHangThucPham.Models.DonHang>
+
+@{
+    ViewBag.Title = "Thông tin đơn hàng";
+    Layout = "~/Areas/Admins/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="content">
+    <div class="card">
+
+        <div class="card-header d-flex justify-content-between">
+
+            <form class="form-inline" asp-controller="AnhSPs" asp-action="Index">
+                <input class="form-control mr-sm-2" type="Search" name="searchString" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+            </form>
+
+
+            <div class="d-flex justify-content-end w-75 ">
+            </div>
+        </div>
+        <!-- /.card-header -->
+        <div class="card-body ">
+            <table class=" table  table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>
+                           Mã Đơn Hàng
+                        </th>
+                        <th>
+                            Thời Gian Tạo
+                        </th>
+                        <th>Tổng Tiền
+                        </th>
+                        <th>
+                            Tên Khách Hàng
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.MaDH)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Time_Create)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Money)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.KhachHang.HoTen)
+                        </td>
+
+
+
+                        <td class="text-center tac-vu ">
+                            @*<a href="/admins/Donhangs/edit/@item.MaDH">
+                                <i class="fas fa-edit"></i>
+                            </a>*@
+                            <a href="/admins/donhangs/details/@item.MaDH">
+                                <i class="fas fa-eye"></i>
+                            </a>
+                           
+                        </td>
+                    </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        <!-- /.card-body -->
+    </div>
+</div>

@@ -1,0 +1,58 @@
+﻿@model WebQLCuaHangThucPham.Models.AnhSP
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Areas/Admins/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="content">
+    <div class="card">
+        <!-- /.card-header -->
+        <div class="card-body">
+            @using (Html.BeginForm("Edit", "AnhSPs", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                @Html.AntiForgeryToken()
+
+            <div class="form-horizontal">
+
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                @Html.HiddenFor(model => model.MaAnh)
+
+                <div class="form-group d-flex">
+                    @Html.LabelFor(model => model.MaSP, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("MaSP", null, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.MaSP, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group d-flex">
+                    @Html.LabelFor(model => model.TenAnh, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.TenAnh, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.TenAnh, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group d-flex">
+                    @Html.LabelFor(model => model.URL, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10 d-block">
+                        <input type="file" name="image" id="image" value="" class="form-control" />
+                        <img src="~/Content/Frond/img/@Model.URL" width="200px" />
+                        @Html.Hidden("oldimage", @Model.URL)
+                        @Html.ValidationMessageFor(model => model.URL, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group d-flex w-100">
+                    <div class="col-md-12 d-flex justify-content-end">
+                        <input type="submit" value="Ghi lại" class="btn btn-success mr-1" />
+                        <a href="/admins/Anhsps/" class="btn btn-danger mx-1">Quay lại</a>
+                    </div>
+                </div>
+            </div>
+            }
+
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,78 @@
+﻿@using WebQLCuaHangThucPham.Models;
+@model List<GioHang>
+@{
+    ViewBag.Title = "GioHang";
+    Layout = "~/Views/Shared/_LayoutMain.cshtml";
+}
+<link href="~/Content/Frond/css/GioHang.css" rel="stylesheet" />
+<section class="main m-5">
+    <div class="container">
+        @if (Model.Count == 0)
+        {
+            <!-- Nếu chưa có sản phẩm nào thì sẽ hiện như sau -->
+            <div class="no-product">
+                <p>Chưa có sản phẩm nào trong giỏ hàng.</p>
+                <a href="@Url.Action("SanPham","Products")">quay trở lại cửa hàng</a>
+            </div>
+        }
+        else
+        {
+            <div class="row justify-content-between">
+                <div class="col-md-7 list-product ">
+                    <table class="w-100  ">
+                        <thead>
+                            <tr>
+                                <th>sản phẩm</th>
+                                <th>Giá</th>
+                                <th>Số lượng</th>
+                                <th>Tổng</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr class="tr-sanpham" id-sp="@item.MaSP">
+                                    <td class="d-flex justify-content-start align-items-center product">
+                                        <a href="@Url.Action("XoaGioHang", "GioHang", new { @MaSP = item.MaSP })">
+                                            <i class="fa-solid fa-circle-xmark icon-close"></i>
+                                        </a>
+                                        <div class="image">
+                                            <img src="~/Content/Frond/img/@item.AnhSP" alt="">
+                                        </div>
+                                        <p>@item.TenSP</p>
+                                    </td>
+                                    <td><span>@String.Format("{0:N0}", item.Gia)<b>đ</b></span></td>
+                                    <td>
+                                        <div class="quantity d-flex align-items-center">
+
+                                            <span class="tru">-</span>
+                                            <input class="input" type="number" name="SoLuong" value="@item.SL" min="1">
+                                            <span class="cong">+</span>
+                                        </div>
+                                    </td>
+                                    <td><span>@String.Format("{0:N0}", item.ThanhTien)<b>đ</b></span></td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    <div class="button">
+                        <a class="back" href="@Url.Action("SanPham","Products")">Tiếp tục xem sản phẩm</a>
+                        <button type="submit" class="update update_giohang">Cập nhật giỏ hàng</button>
+                    </div>
+                </div>
+                <div class="col-md-4 payment">
+                    <h5>Chi tiết đơn hàng</h5>
+                    <div class="total d-flex justify-content-between">
+                        <p>Tổng tiền phải thanh toán : </p>
+                        <span>@String.Format("{0:N0}", @ViewBag.TongTien) <b>đ</b></span>
+                    </div>
+                    <div class="giaohang">
+                        <p>Giao hàng miễn phí</p>
+                        <span>Đây chỉ là ước tính. Giá sẽ cập nhật trong quá trình thanh toán</span>
+                    </div>
+                    <a href="@Url.Action("Index","ThanhToan")">Tiến hành thanh toán</a>
+                </div>
+            </div>
+        }
+    </div>
+</section>

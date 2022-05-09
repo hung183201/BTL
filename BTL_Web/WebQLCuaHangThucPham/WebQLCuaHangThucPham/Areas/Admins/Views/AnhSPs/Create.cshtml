@@ -1,0 +1,93 @@
+﻿@model WebQLCuaHangThucPham.Models.AnhSP
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Areas/Admins/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="content">
+    <div class="card">
+        <!-- /.card-header -->
+        <div class="card-body">
+            @using (Html.BeginForm("Create", "Anhsps" ,FormMethod.Post, new {enctype = "multipart/form-data"}))
+            {
+                @Html.AntiForgeryToken()
+                <div class="form-horizontal ">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                    <div class="form-group row">
+                        @Html.LabelFor(model => model.MaSP, htmlAttributes: new { @class = "control-label col-md-3" })
+                        <div class="col-md-9">
+           
+                            @Html.DropDownList("MaSP", null, htmlAttributes: new { @class = "form-control" })
+
+                            @Html.ValidationMessageFor(model => model.MaSP, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    
+                    <div class="form-group row">
+                        @Html.LabelFor(model => model.TenAnh, htmlAttributes: new { @class = "control-label col-md-3" })
+                        <div class="col-md-9">
+                            @Html.EditorFor(model => model.TenAnh, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.TenAnh, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        @Html.LabelFor(model => model.URL, htmlAttributes: new { @class = "control-label col-md-3" })
+                        <div class="col-md-9">
+                            @*<input type="file" name="fileUpload" id="fileUpload" style="width: 100%;" />*@
+                            @Html.TextBox("image", "", new { type = "file"  })
+                            <img id="pictureUpload" width="300" />
+                            @Html.ValidationMessageFor(model => model.URL, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group w-100">
+                        <div class="col-md-12 d-flex justify-content-end">
+                            <input type="submit" value="Ghi lại" class="btn btn-success mr-1" />
+                            <a href="index" class="btn btn-danger mx-1">Quay lại</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+@*@section Upload
+{
+    <script>
+        $(function () {
+            //dang ký dự iện click
+            $('#fileUpload').trigger('click');
+            // bắt sự kiện change dât của file upload
+            $('#fileUpload').change(function () {
+                // kiểm tra trình duyệt có hỗ trọ from data object không?
+                if (window.FormData !== undefined) {
+                    // lấy dữ liệu trên fileUpload
+                    var fileUpload = $('#fileUpload').get(0);
+                    var files = fileUpload.files;
+                    // tạo đơi tượng form data
+                    var formData = new FormData();
+                    // dưa dữ liệu vào form
+                    formData.append('files', files[0]);
+                    $.ajax({
+                        type: 'POST',
+                        url: '/admin/Anhsps/create',
+                        dataType: "Json",
+                        data: {
+                           formData
+                        },
+                        success: function (res) {
+                            $('#pictureUpload').ajax('src', res);
+                            $('#picture').val(res);
+                        }
+                    });
+                }
+            });
+        });
+
+    </script>
+}*@
+
+

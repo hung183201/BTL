@@ -1,0 +1,101 @@
+﻿@model WebQLCuaHangThucPham.Models.KhachHang
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admins/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+<div class="content">
+    <div class="card">
+        <!-- /.card-header -->
+        <div class="card-body">
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+            <div class="form-horizontal ">
+
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                @Html.HiddenFor(model => model.MaKH)
+
+                <div class="form-group d-flex">
+                    @Html.LabelFor(model => model.HoTen, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.HoTen, new { htmlAttributes = new { @class = "form-control", @readOnly = "readdonly" } })
+                        @Html.ValidationMessageFor(model => model.HoTen, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group d-flex">
+                    @Html.LabelFor(model => model.TaiKhoan, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.TaiKhoan, new { htmlAttributes = new { @class = "form-control", @readOnly = "readdonly" } })
+                        @Html.ValidationMessageFor(model => model.TaiKhoan, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group d-flex">
+                    @Html.LabelFor(model => model.MatKhau, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.MatKhau, new { htmlAttributes = new { @class = "form-control", @readOnly = "readdonly" } })
+                        @Html.ValidationMessageFor(model => model.MatKhau, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group d-flex">
+                    @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control", @readOnly = "readdonly" } })
+                        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group d-flex">
+                    @Html.LabelFor(model => model.SDT, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.SDT, new { htmlAttributes = new { @class = "form-control", @readOnly = "readdonly" } })
+                        @Html.ValidationMessageFor(model => model.SDT, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group d-flex">
+                    @Html.LabelFor(model => model.DiaChi, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.DiaChi, new { htmlAttributes = new { @class = "form-control", @readOnly = "readdonly" } })
+                        @Html.ValidationMessageFor(model => model.DiaChi, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+
+                <div class="form-group d-flex d-flex">
+                    @Html.LabelFor(model => model.isActive, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10 d-flex">
+                        <div class="d-flex align-items-center">
+                            <input type="radio" name="ISACTIVE" id="ISACTIVE1" value="0" @if (Model.isActive == 0) { <text> checked</text>} />
+                            <label for="ISACTIVE1" class="text-success ml-1">Hoạt động</label>
+                        </div>
+                        <div class="d-flex align-items-center ml-2">
+                            <input type="radio" name="ISACTIVE" id="ISACTIVE2" value="1" @if (Model.isActive == 1) { <text> checked</text>} />
+                            <label for="ISACTIVE2" class="text-danger ml-1">Đang khóa</label>
+                        </div>
+                        @Html.ValidationMessageFor(model => model.isActive, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+
+
+
+                <div class="form-group d-flex w-100">
+                    <div class="col-md-12 d-flex justify-content-end">
+                        <a href="/admins/sanphams/edit/@Model.MaKH" class="btn btn-success mr-1" title="Sửa danh mục...">Sửa</a>
+                        <a href="/admins/Khachhangs/" class="btn btn-danger mx-1">Quay lại</a>
+                    </div>
+                </div>
+            </div>
+            }
+
+        </div>
+    </div>
+</div>
+
+
+

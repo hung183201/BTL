@@ -1,0 +1,51 @@
+﻿@model WebQLCuaHangThucPham.Models.GiaSP
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admins/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>GiaSP</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Gia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Gia)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Time_Begin)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Time_Begin)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Time_End)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Time_End)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SanPham.TenSP)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SanPham.TenSP)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.MaGia }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

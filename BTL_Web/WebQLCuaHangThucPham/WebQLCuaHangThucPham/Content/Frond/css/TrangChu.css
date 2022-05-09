@@ -1,0 +1,483 @@
+/* Slide banner */
+body {
+    font-family: RobotoSlab-Medium;
+}
+
+.slideBanner {
+    width: 100%;
+    overflow: hidden;
+}
+
+.item__info {
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 40rem;
+
+    position: relative;
+}
+
+.carousel-item:first-child .item__info {
+    background-image: url('../img/slider26.jpg');
+}
+
+.carousel-item:last-child .item__info {
+    background-image: url('../img/slider28.jpg');
+}
+
+.slide__info {
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    transform: translateY(-50%);
+}
+
+.slide__img {
+    position: absolute;
+    top: 50%;
+    right: 15%;
+    transform: translateY(-50%);
+    width: 38%;
+}
+
+.slide__img img {
+    width: 100%;
+    animation-name: fade;
+    animation-duration: 1.5s;
+    animation-delay: .1s;
+    opacity: 1;
+    transition: opacity 1s;
+}
+
+@keyframes fade {
+    0% {
+        transform: translateY(-50%);
+        opacity: 0.3;
+    }
+
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.slide__info p {
+    background-color: var(--mainColor);
+    padding: .5rem 1rem;
+    color: #fff;
+    width: fit-content;
+    font-size: 1.4rem;
+}
+
+.slide__info h1 {
+    color: #fff;
+    font-family: RobotoSlab-Bold;
+    text-shadow: 2px 6px 8px #292929;
+    line-height: 1.4;
+    font-size: 3rem;
+}
+
+.slide__info span {
+    color: #f1f1f1;
+    display: block;
+    margin-bottom: 2rem;
+}
+
+.slide__info a {
+    background-color: var(--mainColor);
+    border-radius: 2rem;
+    padding: .5rem 3rem;
+    text-transform: uppercase;
+    color: #fff;
+    font-family: RobotoSlab-Bold;
+    font-size: 1.4rem;
+    cursor: pointer;
+    transition: .3s;
+    text-decoration: none;
+}
+
+.slide__info a:hover {
+    background-color: #fff;
+    color: var(--mainColor);
+    border: 2px solid var(--mainColor);
+}
+
+/* banner */
+.banner {
+    position: relative;
+    height: 40rem;
+}
+
+.banner__info {
+    position: absolute;
+    top: -3rem;
+}
+
+.banner__item {
+    overflow: hidden;
+    margin-bottom: 2rem;
+    border-radius: 1rem;
+
+}
+
+.banner__img {
+    width: 100%;
+    overflow: hidden;
+    border-radius: 1rem;
+    height: 20rem;
+}
+
+.banner__img img {
+    width: 100%;
+    transition: .5s;
+    border-radius: 1rem;
+    object-fit: cover;
+    height: 100%;
+}
+
+.banner__img:hover img {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+/* <!-- featured products --> */
+.product__fearured h2 {
+    color: #000;
+    text-align: center;
+    font-size: 2.2rem;
+    margin-bottom: 4rem;
+}
+
+.classify li {
+    margin: 0 2rem;
+    text-transform: uppercase;
+    color: #777;
+    font-size: 1.2rem;
+    font-family: Robotoslab-Bold;
+}
+
+.classify li:hover {
+    color: var(--mainColor);
+    cursor: pointer;
+    transition: .3s;
+}
+
+.classify li.active {
+    color: var(--mainColor);
+}
+
+.product__item, .product__promotion__item {
+    text-align: center;
+}
+
+.product__img, .product__promotion__img {
+    width: 100%;
+    height: 17rem;
+    overflow: hidden;
+}
+
+.product__img img, .product__promotion__item img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.product__item, .product__promotion__item {
+    border: 1px solid rgb(209, 206, 206);
+    border-radius: .5rem;
+    overflow: hidden;
+    margin-top: 2rem;
+    height: 23rem;
+}
+
+.product__item:hover, .product__promotion__item:hover {
+    box-shadow: 2px 2px 10px rgb(175, 174, 174);
+    transition: .3s;
+}
+
+.product__item:hover .product__img img,
+.product__promotion__item:hover .product__promotion__img img {
+    transform: scale(1.1);
+    transition: .3s;
+}
+
+.product__item a, .product__promotion__item a {
+    font-family: Robotoslab-Bold;
+    font-size: 1.2rem;
+    color: #000;
+    text-decoration: none;
+}
+
+.product__item a:hover,
+.product__promotion__item a:hover {
+    color: var(--mainColor);
+    transition: .3s;
+}
+
+.product__item span, .product__promotion__item span {
+    color: var(--mainColor);
+    font-family: Robotoslab-Bold;
+    display: block;
+    margin: 1rem 0;
+    font-size: 1.2rem;
+}
+.slick-dots{
+    display: none !important;
+}
+button.slick-arrow {
+    display: none !important;
+}
+
+/* desc */
+.desc {
+    background-image: url('../img/banner25.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    width: 100%;
+    height: 25rem;
+    text-align: center;
+    padding-top: 3rem;
+    margin: 3rem 0;
+}
+
+.desc h2 {
+    color: #fff;
+    font-family: Robotoslab-Bold;
+    font-size: 2.5rem;
+    margin-top: 5rem;
+}
+
+.desc p {
+    color: #fff;
+    font-family: Robotoslab-Thin;
+}
+
+.product__promotion {
+    position: relative;
+    top: -10rem;
+    left: 0;
+    width: 100%;
+    bottom: 0;
+}
+
+.product__class {
+    margin-top: -5rem;
+    border-bottom: 1px solid #999;
+    padding-bottom: 5rem;
+}
+
+.product__class__img img {
+    width: 100%;
+    height: 100%;
+}
+
+.product__class img:hover {
+    transform: scale(1.1);
+    transition: .5s;
+    cursor: pointer;
+}
+
+.product__class h2 {
+    margin: 0;
+    font-size: 5rem;
+    background: url('../img/bg-text.jpg') no-repeat;
+    background-position: 50% 50%;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-family: RobotoSlab-Bold;
+
+}
+
+.product__class p {
+    margin: 0;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    background: url('../img/bg-text.jpg') no-repeat;
+    background-position: 50% 50%;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-family: RobotoSlab-Bold;
+}
+
+.product__class__img {
+    overflow: hidden;
+    height: 100%;
+}
+
+.brand {
+    margin: 5rem 0;
+    cursor: pointer;
+}
+
+@media (max-width: 575.98px) {
+    .item__info {
+        height: 25rem;
+    }
+
+    .slide__info {
+        top: 30%;
+        left: 10%;
+    }
+
+    .slide__info p {
+        font-size: 1rem;
+    }
+
+    .slide__info h1 {
+        font-size: 2rem;
+    }
+
+    .slide__info span {
+        font-size: .8rem;
+    }
+
+    .slide__info a {
+        font-size: 1rem;
+        padding: .5rem 1.5rem;
+    }
+
+    .slide__img {
+        top: 70%;
+        width: 50%;
+    }
+
+    .banner__info {
+        width: 100%;
+    }
+
+    .product__fearured {
+        margin-top: 12rem;
+    }
+
+    .product__fearured h2 {
+        margin-bottom: 2rem;
+        font-size: 1.5rem;
+    }
+    .classify {
+        padding: 0;
+    }
+    .classify li{
+        font-size: .9rem;
+        margin: 0 1.1rem;
+    }
+    .product__item{
+        margin: 1rem 2.5rem;
+    }
+    
+    .product__promotion__item{
+        margin: 0 1.5rem;
+    }
+    .product__class__img{
+        margin: 1rem 2rem;
+    }
+    .brand .slick-slide img{
+        margin: 0 1rem;
+    }
+    footer .container{
+        padding: 2rem 1rem;
+    }
+    .footer__item{
+        margin-top: 1rem;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .item__info {
+        height: 25rem;
+    }
+
+    .slide__info {
+        top: 30%;
+        left: 10%;
+    }
+
+    .slide__info p {
+        font-size: 1rem;
+    }
+
+    .slide__info h1 {
+        font-size: 2rem;
+    }
+
+    .slide__info span {
+        font-size: .8rem;
+    }
+
+    .slide__info a {
+        font-size: 1rem;
+        padding: .5rem 1.5rem;
+    }
+
+    .slide__img {
+        top: 70%;
+        width: 50%;
+    }
+
+    .banner__info {
+        width: 100%;
+    }
+
+    .product__fearured {
+        margin-top: 12rem;
+    }
+
+    .product__fearured h2 {
+        margin-bottom: 2rem;
+        font-size: 1.5rem;
+    }
+    .classify {
+        padding: 0;
+    }
+    .classify li{
+        font-size: .9rem;
+        margin: 0 1.1rem;
+    }
+    .product__item{
+        margin: 1rem 2.5rem;
+    }
+    
+    .product__promotion__item{
+        margin: 0 1.5rem;
+    }
+    .product__class__img{
+        margin: 1rem 2rem;
+    }
+    .brand .slick-slide img{
+        margin: 0 1rem;
+    }
+    footer .container{
+        padding: 2rem 1rem;
+    }
+    .footer__item{
+        margin-top: 1rem;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .banner {
+        height: 25rem ;
+    }
+    .item__info{
+        height: 35rem;
+    }
+    .product__item, .product__promotion__item{
+        height: 17rem;
+    }
+    .product__img, .product__promotion__img{
+        height: 10rem;
+    }
+    .product__class h2{
+        font-size: 4rem;
+    }
+    .product__class p{
+        font-size: 2rem;
+    }
+    .modal__login, .modal__register{
+        width: 70%;
+    }
+    
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+
+@media (min-width: 1200px) {}

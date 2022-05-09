@@ -1,0 +1,71 @@
+﻿@using WebQLCuaHangThucPham.Models;
+@model List<GioHang>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutMain.cshtml";
+}
+<link href="~/Content/Frond/css/ThanhToan.css" rel="stylesheet" />
+
+<section class="main">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-7 ">
+                <h5>THÔNG TIN THANH TOÁN</h5>
+                <form action="">
+                    <div class="input">
+                        <label for="">Tên <sup>*</sup></label>
+                        <input type="text" value="@CurrentUser.TenKH" readonly>
+                    </div>
+                    <div class="input">
+                        <label for="">Địa chỉ <sup>*</sup></label>
+                        <input type="text" value="@CurrentUser.DiaChi" readonly>
+                    </div>
+                    <div class="input">
+                        <label for="">Số điện thoại <sup>*</sup></label>
+                        <input type="text" value="@CurrentUser.SDT" readonly>
+                    </div>
+                    <div class="input">
+                        <label for="">Địa chỉ email <sup>*</sup></label>
+                        <input type="email" value="@CurrentUser.Email" readonly>
+                    </div>
+                    <div class="input">
+                        <label for="">Ghi chú đơn hàng (tuỳ chọn)</label>
+                        <textarea name="" id="" cols="30" rows="7" placeholder="Ghi chú về đơn hàng ..."></textarea>
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-5 info">
+                <h5>ĐƠN HÀNG CỦA BẠN</h5>
+                <div class="title">
+                    <h6>SẢN PHẨM</h6>
+                    <h6>TỔNG</h6>
+                </div>
+                @foreach (var item in Model)
+                {
+                    <div class="title">
+                        <p>@item.TenSP  <span>x <b>@item.SL</b></span></p>
+                        <span>@String.Format("{0:N0}", @item.Gia) <b>đ</b></span>
+                    </div>
+                }
+
+                <div class="title">
+                    <p>Giao hàng </p>
+                    <p>Giao hàng miễn phí</p>
+                </div>
+                <div class="title">
+                    <p>Tổng  </p>
+                    <span> @String.Format("{0:N0}", @ViewBag.TongTien) <b>đ</b></span>
+                </div>
+                <div class="check">
+                    <input type="radio" name="check" checked id="check1" value="1">
+                    <label for="check1">Trả tiền mặt khi nhận hàng</label>
+                </div>
+                <div class="check">
+                    <input type="radio" name="check" id="check2" value="2">
+                    <label for="check2">Chuyển khoản ngân hàng</label>
+                </div>
+                <button type="button" class="btn-dathang">Đặt hàng</button>
+            </div>
+        </div>
+    </div>
+</section>
